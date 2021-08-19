@@ -1,0 +1,9 @@
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/2.28.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/Hello.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/2.31.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/2.29.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/2.18.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/2.30.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
