@@ -8,5 +8,14 @@ C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/2.30.dir
 C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/2.33.dir
 C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/2.34.dir
 C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/2.35.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/2.37.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/3.7.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/3.13.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/3.8.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/3.12.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/3.9.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/3.10.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/3.14.dir
+C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/3.15.dir
 C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/xy/CLionProjects/c-postgraduate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
